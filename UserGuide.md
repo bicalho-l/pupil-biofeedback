@@ -10,7 +10,7 @@ The GUI interface will allow the user to make fine adjustments to pupil segmenta
 
 This algorithm was built to display the eye cameras with "magenta/green" color channels, which represents a high-contrast option that may help users with different types of problems affecting their color vision (R2012a, The Mathworks Inc).
 
-After confirming that the pupil is well segmented, the user must run the 'pupball8b' algorithm. This algorithm will open a GUI that will provide the following options: 
+After confirming that the pupil is well segmented, the user must run the 'pupball8a' algorithm. This algorithm will open a GUI that will provide the following options: 
 
 (1) Baseline, (2) Scan session, and (3) Biofeedback.
 
