@@ -2,15 +2,15 @@
 
 The RL branch of this repository contains the reinforcement learning algorithm as well as the database used to build the biofeedback information. 
 
-To start using the system, you must first run the 'eyestart9' algorithm to verify the pupil segmentation. If the cameras/HMD are placed correctly on the volunteer, you will be able to calculate pupil size and discriminate it from the rest of the eye features, such as ruff, limbus, and eye-browns.
+To start using the system, you must first run the 'eyetracker' algorithm to verify the pupil segmentation. If the cameras/HMD are placed correctly on the volunteer, you will be able to calculate pupil size and discriminate it from the rest of the eye features, such as ruff, limbus, and eye-browns.
 
-Note: You must input your camera's intrinsics/extrinsics to a matfile according to the eyestart9 instructions (comments section).
+Note: You must input your camera's specs/intrinsics/extrinsics to a matfile according to the 'eyetracker' and 'biofeedback' algorithms comments instructions.
 
 The GUI interface will allow the user to make fine adjustments to pupil segmentation through different push buttons. Specifically, it has three settings that can be used by the user to correct the algorithm if it exceeds the pupillary threshold or to correct the magnitude of pixel transformation in the image (when necessary).
 
 This algorithm was built to display the eye cameras with "magenta/green" color channels, which represents a high-contrast option that may help users with different types of problems affecting their color vision (R2012a, The Mathworks Inc).
 
-After confirming that the pupil is well segmented, the user must run the 'pupball8a' algorithm. This algorithm will open a GUI that will provide the following options: 
+After confirming that the pupil is well segmented, the user must run the 'biofeedback' algorithm. This algorithm will open a GUI that will provide the following options: 
 
 (1) Baseline, (2) Scan session, and (3) Biofeedback.
 
