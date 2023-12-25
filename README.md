@@ -6,13 +6,13 @@ On this website, we provide the code for our study titled **The use of an Artifi
 Check out our group's [website](http://www.nneurom.com/) for more information.
 
 Authorship:
-Lucas Eduardo Antunes Bicalho [website](mailto:bicalho.l@hotmail.com) and Guilherme Menezes Lage [website](mailto:menezeslage@gmail.com)
+Lucas Eduardo Antunes Bicalho [bicalho.l@hotmail.com](mailto:bicalho.l@hotmail.com) and Guilherme Menezes Lage [menezeslage@gmail.com](mailto:menezeslage@gmail.com)
 
 Software details:
 Version: 1.0.0
 License: MIT License
 
-**Copyright (c) 2022 by Lucas Eduardo Antunes Bicalho and Guilherme Menezes Lage**
+Copyright (c) 2022 by **Lucas Eduardo Antunes Bicalho** and **Guilherme Menezes Lage**
 
 Legal Notice:
 Permission is hereby granted, free of charge, to any person obtaining a copy  of this software and associated documentation files (the "Software"), to deal  in the Software without restriction, including without limitation the rights  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is  furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
